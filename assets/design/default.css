@@ -1,0 +1,7 @@
+fieldset {
+  border: 1px solid Silver;
+}legend {
+  color: #1387BA;
+  font-size: medium;
+  font-weight: bold;
+}
